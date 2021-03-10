@@ -33,12 +33,14 @@ I'm planning to publish some fun things, too.
 
 -Quasic on New Year's Day 2021
 
-### TODO list
-* StaticTicTacToe
+### TODO (upcoming) list
+* StaticTicTacToe (computer move first)
 * plotFunc
-* CXRPG
+* Single player HTML classic retro games
+* Entrophy multiuser system
 * GenieScenario
-* bloggy subpages, maybe HTML instead of md format
+* bloggy subpages
+* dom repo demo and doc page
 * see what needs finishing with [jsBinary](//GitHub.com/Quasic/jsBinary)
 * better document [lets](//GitHub.com/Quasic/lets)
 
