@@ -2,21 +2,21 @@
 Welcome to my GitHub website.
 I am known as [Quasic](//github.com/Quasic), here.
 
-## List of Fun things to do, here:
+## List of Fun things to do, here
 ### Static HTML
 These can be cloned or downloaded to play without Internet. No special server is required, though JavaScript and image support usually are.
 
-*Coming...
+* Coming...
 #### Extremely Static HTML
 These should provide some fun for all browsers, regardless of whether they support JavaScript, Java, Flash, frames, or even images, using only static pages that can be cloned or downloaded to play without Internet. You can save the state of any game in this list by simply bookmarking the page you are on:
 
-*[Play StaticTicTacToe](//quasic.github.io/StaticTicTacToe/tictactoe/t.html) There are 5 ways to win, in alternative starting options, but the normal play is unbeatable.
+* [Play StaticTicTacToe](//quasic.github.io/StaticTicTacToe/tictactoe/t.html) There are 5 ways to win, in alternative starting options, but the normal play is unbeatable.
 ### Server games
 These require an external host, so playing a cloned repo requires extra setup. They are hosted on an external server:
 
-*Coming...
+* Coming...
 
-## Repositories with web content include:
+## Repositories with web content
 * [jsformat](//quasic.github.io/jsformat)
 * [StaticTicTacToe](//quasic.github.io/StaticTicTacToe) is a Tic-Tac-Toe game/study that should be playable in pretty much any browser, even without JavaScript or images. Some scripts are included to help edit in a fork, if desired.
 
