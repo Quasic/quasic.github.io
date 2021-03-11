@@ -10,7 +10,7 @@ These can be cloned or downloaded to play without Internet. No special server is
 #### Extremely Static HTML
 These should provide some fun for all browsers, regardless of whether they support JavaScript, Java, Flash, frames, or even images, using only static pages that can be cloned or downloaded to play without Internet. You can save the state of any game in this list by simply bookmarking the page you are on:
 
-* [Play StaticTicTacToe](//quasic.github.io/StaticTicTacToe/tictactoe/t.html) There are 5 ways to win, in alternative starting options, but the normal play is unbeatable. [The repository](//quasic.github.io/StaticTicTacToe) for this game/study includes some utility scripts I developed along with the game.
+* [Play StaticTicTacToe](//quasic.github.io/StaticTicTacToe/tictactoe/t.html) There are 5 ways to win, in alternative starting options, but the normal play is unbeatable. [The repository](//github.com/Quasic/StaticTicTacToe) for this game/study includes some utility scripts I developed along with the game.
 
 ### Server games
 These require an external host, so playing a cloned repo requires extra setup. They are hosted on an external server:
