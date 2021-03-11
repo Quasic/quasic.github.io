@@ -20,6 +20,11 @@ These require an external host, so playing a cloned repo requires extra setup. T
 ## Other repositories with web content
 * [jsformat](//quasic.github.io/jsformat)
 
+## termux
+I use this terminal for Android. Here are some repo links:
+* [official termux info and repos](//github.com/termux)
+* [termux-home-bin](https://github.com/Quasic/termux-home-bin) a project I pretty much abandoned when my phone had weird trouble with the dialog binary, but it's now apparently a required part of the app, so I am thinking of reviving this with a recompilation or reimplementation of dialog
+
 ## Blogy
 I'm happy to find some people I don't know have starred
 and forked some of my repos, such as [wshta](//github.com/Quasic/wshta),
