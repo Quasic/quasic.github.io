@@ -17,8 +17,9 @@ These require an external host, so playing a cloned repo requires extra setup. T
 
 * Coming...
 
-## Other repositories with web content
-* [jsformat](//quasic.github.io/jsformat)
+## Web content from other repositories
+* [TAP](//quasic.github.io/TAP) ([repo](//GitHub.com/TAP))
+* [jsformat](//quasic.github.io/jsformat) ([repo](//GitHub.com/jsformat))
 
 ## termux
 I use this terminal for Android. Here are some repo links:
