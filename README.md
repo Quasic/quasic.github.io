@@ -18,7 +18,7 @@ These require an external host, so playing a cloned repo requires extra setup. T
 * Coming...
 
 ## Web content from other repositories
-* [TAP](//quasic.github.io/TAP) ([repo](//GitHub.com/TAP))
+* [TAP](//quasic.github.io/TAP) ([repo](//GitHub.com/Quasic/TAP))
 * [jsformat](//quasic.github.io/jsformat) ([repo](//GitHub.com/jsformat))
 
 ## termux
