@@ -43,6 +43,7 @@ I'm planning to publish some fun things, too.
 * plotFunc
 * Single player HTML classic retro games
 * Entrophy multiuser system
+* Revive [termux-home-bin](//github.com/Quasic/termux-home-bin)
 * GenieScenario
 * bloggy subpages
 * dom repo demo and doc page
