@@ -40,7 +40,6 @@ I'm planning to publish some fun things, too.
 -Quasic on New Year's Day 2021
 
 ### TODO (upcoming) list
-* StaticTicTacToe (computer move first)
 * plotFunc
 * Single player HTML classic retro games
 * Entrophy multiuser system
