@@ -40,7 +40,7 @@ I'm planning to publish some fun things, too.
 -Quasic on New Year's Day 2021
 
 ### TODO (upcoming) list
-* plotFunc
+* webgltest and plotFunc
 * Single player HTML classic retro games
 * Entrophy multiuser system
 * Revive [termux-home-bin](//github.com/Quasic/termux-home-bin)
