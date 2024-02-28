@@ -20,7 +20,7 @@ These require an external host, so playing a cloned repo requires extra setup. T
 ### Game tools
 These are tools for use with games.
 * [Xonacra](//quasic.github.io/Xonacra) ([repo](//github.com/Quasic/Xonacra))contains tools for use with Arcanox.
-* [11-gfx](//quasic.github.io/11-gfx) ([repo](//github.com/Quasic/11-gfx)) is a graphics collection with a viewer.
+* [11-gfx](//quasic.github.io/11-gfx/README.md) ([repo](//github.com/Quasic/11-gfx)) is a graphics collection with a viewer.
 
 ## Web content from other repositories
 * [TAP](//quasic.github.io/TAP) ([repo](//GitHub.com/Quasic/TAP))
