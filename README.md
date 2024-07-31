@@ -6,7 +6,7 @@ I am known as [Quasic](//github.com/Quasic), here.
 ### Static HTML
 These can be cloned or downloaded to play without Internet. No special server is required, though JavaScript and image support usually are.
 
-* [DragonBasher single-player](https://quasic.github.io/DragonBasher/client1.htm) is a single-player version of one of the engines in the Queville/ Fordana family. It uses 11-gfx, listed below, in Game Tools. [The repository](//github.com/ Quasic/DragonBasher) also has branches for perl (multi-player) and TypeScript versions.
+* [DragonBasher single-player](https://quasic.github.io/DragonBasher/client1.htm) is a single-player version of one of the engines in the Queville/ Fordana family. It uses 11-gfx, listed below, in Game Tools. [The repository](//github.com/Quasic/DragonBasher) also has branches for perl (multi-player) and TypeScript versions.
 
 #### Extremely Static HTML
 These should provide some fun for all browsers, regardless of whether they support JavaScript, Java, Flash, frames, or even images, using only static pages that can be cloned or downloaded to play without Internet. You can save the state of any game in this list by simply bookmarking the page you are on:
