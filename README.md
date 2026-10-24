@@ -45,7 +45,7 @@ I'm planning to publish some fun things, too.
 
 -Quasic on New Year's Day 2021
 
-I think I will have [notes.md](quasic.github.io/notes.html) for other miscellaneous blogish things unrelated to a specific project and maybe some related to multiple projects. -2026
+I think I will have [notes.md](//quasic.github.io/notes.html) for other miscellaneous blogish things unrelated to a specific project and maybe some related to multiple projects. -2026
 
 ### TODO (upcoming) list
 * webgltest and plotFunc
