@@ -1,6 +1,6 @@
 # quasic.github.io
 Welcome to my GitHub website.
-I am known as [Quasic](//github.com/Quasic), here.
+I am known as [Quasic](://github.com/Quasic), here.
 
 ## List of Fun things to do, here
 ### Static HTML
