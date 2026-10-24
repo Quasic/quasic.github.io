@@ -9,8 +9,6 @@ jobs:
   super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
-    env:
-      VALIDATE_NATURAL_LANGUAGE: false
     steps:
       # Checks out a copy of your repository on the ubuntu-latest machine
       - name: Checkout code
@@ -22,3 +20,4 @@ jobs:
         env:
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALIDATE_NATURAL_LANGUAGE: false
