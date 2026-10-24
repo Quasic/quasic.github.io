@@ -20,7 +20,7 @@ These require an external host, so playing a cloned repo requires extra setup. T
 
 ### Game tools
 These are tools for use with games.
-* [Xonacra](//quasic.github.io/Xonacra) ([repo](//github.com/Quasic/Xonacra))contains tools for use with Arcanox.
+* [Xonacra](//quasic.github.io/Xonacra) ([repo](//github.com/Quasic/Xonacra)) contains tools for use with Arcanox.
 * [11-gfx](//quasic.github.io/11-gfx/11-viewer.htm) ([repo](//github.com/Quasic/11-gfx)) is a graphics collection with a viewer.
 
 ## Web content from other repositories
@@ -44,6 +44,8 @@ I am currently reacquainting myself with GitHub, and uploading some old and new 
 I'm planning to publish some fun things, too.
 
 -Quasic on New Year's Day 2021
+
+I think I will have [notes.md](quasic.github.io/notes.md) for other miscellaneous blogish things unrelated to a specific project and maybe some related to multiple projects. -2026
 
 ### TODO (upcoming) list
 * webgltest and plotFunc
