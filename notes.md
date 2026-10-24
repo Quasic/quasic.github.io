@@ -6,7 +6,7 @@
 
 #### 12th
 
-I found [ponytail](https://github.com/DietrichGebert/ponytail) for LLM code prompting. Looks useful.
+I found [ponytail](https://github.com/DietrichGebert/ponytail#the-prompt) for LLM code prompting. Looks useful.
 
 #### 17th
 
